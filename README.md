@@ -47,7 +47,7 @@
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
     </a>
     <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer">
-        <img src="https://example.com/ios-icon.png" alt="iOS" width="40" height="40"/>
+        <img src="https://icons8.com/icon/20822/ios-logo" alt="iOS" width="40" height="40"/>
     </a>
 </p>
 <h3>AI/ML</h3>
@@ -68,14 +68,14 @@
     </a>
     <!-- Insomnia -->
     <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-        <img src="https://example.com/insomnia-icon.png" alt="Insomnia" width="40" height="40"/>
+        <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="Insomnia" width="40" height="40"/>
     </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-        <img src="https://example.com/jira-icon.png" alt="Jira" width="40" height="40"/>
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira" width="40" height="40"/>
     </a>
     <!-- Trello -->
 <a href="https://trello.com/" target="_blank" rel="noreferrer">
-    <img src="https://example.com/trello-logo.png" alt="Trello" width="40" height="40"/>
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/trello-logo.png" alt="Trello" width="40" height="40"/>
 </a>
 
   
