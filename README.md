@@ -47,7 +47,7 @@
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
     </a>
     <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer">
-        <img src="https://icons8.com/icon/20822/ios-logo" alt="iOS" width="40" height="40"/>
+        <img src="https://icons.veryicon.com/png/o/application/skills-section/ios-1.png" alt="iOS" width="40" height="40"/>
     </a>
 </p>
 <h3>AI/ML</h3>
@@ -92,10 +92,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
   <a href="https://agilemanifesto.org/" target="_blank" rel="noreferrer">
-        <img src="https://example.com/agile-manifesto-icon.png" alt="Agile Manifesto" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/6403/6403812.png" alt="Agile Manifesto" width="40" height="40"/>
     </a>
   <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-        <img src="https://example.com/scrum-icon.png" alt="Scrum" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5065/5065388.png" alt="Scrum" width="40" height="40"/>
     </a>
 </p>
 
