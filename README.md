@@ -21,7 +21,6 @@
 
 - ⚡ Fun fact **I'm funnier in spanish**
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@elianrente63215/30-nites-of-code)  
   ![@elianrente63215 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=elianrente63215)
 
 <h3 align="left">Connect with me:</h3>
