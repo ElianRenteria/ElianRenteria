@@ -100,7 +100,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/5065/5065388.png" alt="Scrum" width="40" height="40"/>
     </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-2.svg" alt="Docker" width="40" height="40"/>
+        <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" alt="Docker" width="40" height="40"/>
     </a>
 </p>
 
