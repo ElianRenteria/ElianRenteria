@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kQlmQlYh4M2qRtJOtMODJDYykr7W4pQa/view?usp=sharing](https://drive.google.com/file/d/1kQlmQlYh4M2qRtJOtMODJDYykr7W4pQa/view?usp=sharing)
 
 - ⚡ Fun fact **I'm funnier in spanish**
-## #30NitesOfCode:
+
   ![@elianrente63215 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=elianrente63215)
 
 <h3 align="left">Connect with me:</h3>
