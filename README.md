@@ -1,9 +1,9 @@
 <h1 align="center">Hello World 👋, I am Elian 🐥</h1>
 <h3 align="center">Recent Computer Science grad 🎓 | Eager Learner diving into Web & Mobile Development 💻📱 | Dog Lover 🐾 | Aquarium Enthusiast 🐠</h3>
 
-- 🌱 I’m currently learning **VUE**
+<h1>(https://Elianrenteria.dev)</h1>
 
-- 👯 I’m looking to collaborate on **making Cool stuff 🚀**
+- 🌱 I’m currently learning **VUE**
 
 - 🤝 I’m looking for help with **getting industry experience**
 
