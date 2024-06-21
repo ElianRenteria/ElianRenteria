@@ -1,9 +1,7 @@
 <h1 align="center">Hello World 👋, I am Elian 🐥</h1>
 <h3 align="center">Recent Computer Science grad 🎓 | Eager Learner diving into Web & Mobile Development 💻📱 | Dog Lover 🐾 | Aquarium Enthusiast 🐠</h3>
 
-- 🗺️ I’m currently working on [ParkingBuddy App](https://github.com/ElianRenteria/ParkingBuddy)
-
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **VUE**
 
 - 👯 I’m looking to collaborate on **making Cool stuff 🚀**
 
@@ -12,8 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ElianRenteria](https://github.com/ElianRenteria)
 
 - 📝 I currently teach coding @ [https://www.thecoderschool.com](https://www.thecoderschool.com)
-
-- 💬 Ask me about **anything 👽**
 
 - 📫 How to reach me **elianrenteriadevelopment@gmail.com**
 
