@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I am Elian 🐥</h1>
 <h3 align="center">Recent Computer Science grad 🎓 | Eager Learner diving into Web & Mobile Development 💻📱 | Dog Lover 🐾 | Aquarium Enthusiast 🐠</h3>
 
-<h3>(https://Elianrenteria.dev)</h3>
+<h3>https://Elianrenteria.dev</h3>
 
 - 🌱 I’m currently learning **VUE**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElianRenteria](https://github.com/ElianRenteria)
 
-- 📝 I currently teach coding @ [https://www.thecoderschool.com](https://www.thecoderschool.com)
+- 📝 I currently teach coding @ (https://www.thecoderschool.com](https://www.thecoderschool.com)
 
 - 📫 How to reach me **elianrenteriadevelopment@gmail.com**
 
