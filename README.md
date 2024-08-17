@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **elianrenteriadevelopment@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WbqYJIHBEsW8NA-0pUzZmx8RtYd6Ic0B/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FJC8rOLGk-q0I6bO8sk9wMsVF930Ptrh/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm funnier in spanish**
 
