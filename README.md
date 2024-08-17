@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for help with **getting industry experience**
 
-- 👨‍💻 All of my projects are available at [HERE](https://github.com/ElianRenteria)
+- 👨‍💻 All of my projects are available [here](https://github.com/ElianRenteria)
 
 - 📝 I currently teach coding @ [TheCoderSchool](https://www.thecoderschool.com)
 
 - 📫 How to reach me **elianrenteriadevelopment@gmail.com**
 
-- 📄 Know about my experiences [HERE](https://drive.google.com/file/d/1FJC8rOLGk-q0I6bO8sk9wMsVF930Ptrh/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1FJC8rOLGk-q0I6bO8sk9wMsVF930Ptrh/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm funnier in spanish**
 
