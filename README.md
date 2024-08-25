@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I am Elian 🐥</h1>
-<h3 align="center">Recent Computer Science grad 🎓 | Eager Learner diving into Web & Mobile Development 💻📱 | Dog Lover 🐾 | Aquarium Enthusiast 🐠</h3>
+<h3 align="center">Recent Computer Science grad 🎓 | Eager Learner diving into Web & Mobile Development 💻📱 | Dog Dad 🐾 | Aquarium Enthusiast 🐠</h3>
 
 - 🌱 I’m currently learning **VUE**
 
@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1FJC8rOLGk-q0I6bO8sk9wMsVF930Ptrh/view?usp=drive_link)
 
-- ⚡ Fun fact **I'm funnier in spanish**
 
   ![@elianrente63215 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=elianrente63215)
 
