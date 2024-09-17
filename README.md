@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VUE**
 
-- 🤝 I’m looking for help with **getting industry experience**
+- 🤝 I’m looking for **industry experience**
 
 - 👨‍💻 All of my projects are available [Here](https://Elianrenteria.dev)
 
