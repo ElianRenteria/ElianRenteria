@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GO**
 
-- 🤝 I’m looking for **industry experience**
+- 🤝 I’m looking for **industry experience** 
 
 - 👨‍💻 All of my projects are available [Here](https://Elianrenteria.dev)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **elianrenteriadevelopment@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1FJC8rOLGk-q0I6bO8sk9wMsVF930Ptrh/view?usp=drive_link)
+- 📄 Know about my experience [Here](https://drive.google.com/file/d/1FJC8rOLGk-q0I6bO8sk9wMsVF930Ptrh/view?usp=drive_link)
 
 
   ![@elianrente63215 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=elianrente63215)
