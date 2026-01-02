@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Elian 🐥</h1>
-<h3 align="center">Computer Science grad 🎓 | Eager Learner diving into fullstack Development 💻</h3>
+<h3 align="center">Computer Science grad 🎓</h3>
 
 - 🌱 I’m currently learning **GO**
 
