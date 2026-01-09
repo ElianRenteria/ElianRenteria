@@ -1,9 +1,4 @@
 <h1 align="center">Hello 👋, I am Elian 🐥</h1>
-<h3 align="center">Computer Science grad 🎓</h3>
-
-- 🌱 I’m currently learning **GO**
-
-- 👨‍💻 All of my projects are available [Here](https://Elianrenteria.dev)
 
 - 📫 How to reach me **elianrenteriadevelopment@gmail.com**
 
