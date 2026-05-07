@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **elianrenteriadevelopment@gmail.com**
 
-- 📄 Resume [Here](https://drive.google.com/file/d/1FJC8rOLGk-q0I6bO8sk9wMsVF930Ptrh/view?usp=sharing)
+- 📄 Resume [Here](https://drive.google.com/file/d/1AccEbFQUH6sHHwrbpgg4Qz_BWgalxa1T/view?usp=sharing)
 
 
   ![@elianrente63215 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=elianrente63215)
